@@ -3,7 +3,7 @@
 # Miguel Valinho
 Pelotas, RS · Design @ UFPel
 
-<a href="https://miguel-valinho-about.vercel.app"><img src="https://img.shields.io/badge/PORTFÓLIO-181818?style=for-the-badge" alt="Portfólio"/></a>
+<a href="https://miguelvalinho.com"><img src="https://img.shields.io/badge/PORTFÓLIO-181818?style=for-the-badge" alt="Portfólio"/></a>
 <a href="https://www.linkedin.com/in/miguelvalinho"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <img src="https://img.shields.io/badge/Design_Operations-EBEBEB?style=flat-square" alt="Design Operations"/>
